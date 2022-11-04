@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css?family=Maven+Pro&display=swap" rel="stylesheet">
+    <title>Login</title>
+</head>
+<body>
+    <div class="main-Navbar">
+        <nav class="nav-ti">
+            <img src="C:\Users\User.DESKTOP-8GPHIN0\Documents\コーネリアス・ヴァンダービルトCornelius Vanderbilt\ライダーハミルトン Raidā Hamiruton HTML\AJ Styles\Home\ajlogo.png" style="width: 150px; height: auto;">
+            <ul>
+                <li><a href="C:\Users\User.DESKTOP-8GPHIN0\Documents\コーネリアス・ヴァンダービルトCornelius Vanderbilt\ライダーハミルトン Raidā Hamiruton HTML\AJ Styles\Home\index.html">Home</a></li>
+                <li><a href="C:\Users\User.DESKTOP-8GPHIN0\Documents\コーネリアス・ヴァンダービルトCornelius Vanderbilt\ライダーハミルトン Raidā Hamiruton HTML\AJ Styles\Portfolio\index.html">Portfolio</a></li>
+                <li><a href="C:\Users\User.DESKTOP-8GPHIN0\Documents\コーネリアス・ヴァンダービルトCornelius Vanderbilt\ライダーハミルトン Raidā Hamiruton HTML\AJ Styles\About\index.html">About</a></li>
+                <li><a href="C:\Users\User.DESKTOP-8GPHIN0\Documents\コーネリアス・ヴァンダービルトCornelius Vanderbilt\ライダーハミルトン Raidā Hamiruton HTML\AJ Styles\Matches\index.html">Matches</a></li>
+                <li><a href="">Gallery</a></li>
+                <li><a href="C:\Users\User.DESKTOP-8GPHIN0\Documents\コーネリアス・ヴァンダービルトCornelius Vanderbilt\ライダーハミルトン Raidā Hamiruton HTML\AJ Styles\Login\index.html">Login</a></li>
+            </ul>
+        </nav>
+    </div>
+    
+    <div class="loginbox">
+        <form>
+            <img class="avater" src="Themis-icon.png" >
+            <h1>Login Here</h1>
+
+            <p style="margin-bottom: 15px;">Username</p>
+            <input type="text" name="" placeholder="Enter Username">
+
+            <p style="margin-bottom: 15px;">Password</p>
+            <input type="password" name="" placeholder="Enter Password">
+            
+            <input type="submit" name="" value="Login" style="margin-top: 15px;">
+            <br><a href="#" onclick="NoPassFunc()">Don't have a Password?</a></br>
+            <a href="#" onclick="NoAccountFunc()">Don't have an account</a>
+        </form>
+    </div>
+
+    <script>
+        function NoAccountFunc() {
+            var NoAccountFuncWindow = window.open("", "NoAccountFuncWindow", "width=1000, height=1000");
+            NoAccountFuncWindow.document.write('<h1 style="font-size: 40px; color: purple;">Tatiana Romanova</h1>');
+            NoAccountFuncWindow.document.write('<img src="DanielaBianchi.jpg" style="width:360px; height: auto;">');
+            NoAccountFuncWindow.document.write('<iframe style="margin: 40px;" width="560" height="315" src="https://www.youtube.com/embed/hVD7hseKjr4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>');
+            NoAccountFuncWindow.opener();
+        }
+
+        function NoPassFunc() {
+            var NoPassFuncWindow = window.open("", "NoPassFuncWindow", "width=1000, height=1000");
+            NoPassFuncWindow.document.write('');
+            NoPassFuncWindow.document.write('');
+            NoPassFuncWindow.opener();
+        }
+    </script>
+
+
+
+
+</body>
+</html>
