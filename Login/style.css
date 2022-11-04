@@ -1,0 +1,126 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+
+body
+{
+    background: url(yellowlamgirl.jpg);
+    font-family: 'Maven Pro', sans-serif;
+    background-size: cover;
+}
+/*****************************************TOPnav********************************************/
+
+.main-Navbar
+{
+    font-family: 'Maven Pro', sans-serif;
+    width: 100%;
+    height: 100vh;
+}
+
+.nav-ti
+{
+    width: 100%;
+    height: 80px;
+    background-color: purple;
+    line-height: 80px;
+}
+
+.nav-ti ul 
+{
+    float: right;
+    margin-right: 30px;
+}
+
+.nav-ti ul li
+{
+    list-style-type: none;
+    display: inline-block;
+}
+
+.nav-ti ul li:hover
+{
+    background-color: orange;
+}
+
+.nav-ti ul li a
+{
+    text-decoration: none;
+    color: white;
+    font-size: 30px;
+    padding: 30px;
+}
+
+/*****************************************TOPnav********************************************/
+.loginbox
+{
+    margin-top: 50px;
+    width: 320px;
+    height: 560px;
+    background: purple;
+    color: wheat;
+    top: 50%;
+    left: 75%;
+    position: absolute;
+    transform: translate(-50%, -50%);
+    box-sizing: border-box;
+    padding: 10px 60px;
+    border-radius: 22%;
+}
+
+.avater
+{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    position: absolute;
+    margin-top: 75px;
+    top: -50px;
+    left: calc(50% - 50px);
+}
+
+h1
+{
+    margin: 2px;
+    margin-top: 150px;
+    padding: 0 0 22px;
+    text-align: center;
+    font-size: 22px;
+}
+
+.loginbox input
+{
+    width: 100%;
+    margin-bottom: 7px;
+}
+
+.loginbox input[type="text"], input[type="password"]
+{
+    border: 1px;
+    border-bottom: 1px solid #ffffff;
+    background: white;
+    outline: none;
+    font-size: 16;
+    border-radius: 2px;
+}
+
+.loginbox input[type="submit"]
+{
+    border: none;
+    outline: none;
+    height: 30px;
+    background: orange;
+    color: purple;
+    font-size: 20px;
+    font-family: 'Maven Pro', sans-serif;
+}
+
+.loginbox a
+{
+    text-decoration: none;
+    font-size: 13px;
+    line-height: 20px;
+    color: wheat;
+    margin: ;
+}
