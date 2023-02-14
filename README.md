@@ -1,7 +1,7 @@
 # WWE AJ Styles
 
 WWE AJ Styles
-This Website was designe to experiment with colors and themes.
+This WWE AJ Styles Website was designed for me  to experiment with colors, themes and CSS design. This project includes some great HTML Code, CSS,  JavaScript, Font-awesome and any other tools. 
 
 # AJ Bio
 
