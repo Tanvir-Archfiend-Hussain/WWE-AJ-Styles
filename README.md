@@ -1,5 +1,5 @@
 # WWE AJ Styles
-
+<img align="center" src="[https://www.shethepeople.tv/wp-content/uploads/2021/02/mandakini.jpg](https://www.power-wrestling.de/wp-content/uploads/2019/11/AJ-Styles.jpg)" />
 WWE AJ Styles
 This WWE AJ Styles Website was designed for me  to experiment with colors, themes and CSS design. This project includes some great HTML Code, CSS,  JavaScript, Font-awesome and any other tools. 
 
