@@ -4,7 +4,7 @@ WWE AJ Styles
 This WWE AJ Styles Website was designed for me  to experiment with colors, themes and CSS design. This project includes some great HTML Code, CSS,  JavaScript, Font-awesome and any other tools. 
 
 # AJ Bio
-
+<img align="center" src="" /><img align="center" src="" />
 Allen Neal Jones (born June 2, 1977), better known by his ring name AJ Styles (also stylized as A.J. Styles), is an American professional wrestler. He is currently signed to WWE, where he performs on the Raw brand. Regarded as one of the best in-ring performers of all time, he is also known for his time with Total Nonstop Action Wrestling (TNA, now known as Impact Wrestling) from 2002 to 2014 and New Japan Pro-Wrestling (NJPW) from 2014 to 2016.
 <img align="center" src="https://media.bleacherreport.com/f_auto,w_1440,q_auto,c_fill/br-cms/0a/3d/b3/90/05ba/4253/a6a1/7cb3f58e2a25/crop_exact_styles.jpeg" />
 Jones debuted in 1998 and competed for various independent promotions before gaining initial mainstream exposure in World Championship Wrestling (WCW) in 2001. He gained prominence after signing with TNA, having been described as "the cornerstone of the company since inception"; he won the TNA World Heavyweight Championship twice, the NWA World Heavyweight Championship three times, and was the inaugural titleholder of the X Division Championship, which he won six times. He is also the first TNA Triple Crown and Grand Slam champion. Jones simultaneously appeared in Ring of Honor (ROH) from 2002 to 2006, where he became the inaugural ROH Pure Champion, and wrestled in NJPW between 2014 and 2016, where he won the IWGP Heavyweight Championship twice.
